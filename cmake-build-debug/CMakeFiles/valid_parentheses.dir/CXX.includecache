@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/CodeChallenge.h
+
+/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/LongestSubstring.h
+CodeChallenge.h
+/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/CodeChallenge.h
+unordered_map
+-
+string
+-
+
+/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/ValidParentheses.h
+unordered_map
+-
+stack
+-
+CodeChallenge.h
+/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/CodeChallenge.h
+
+/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/main.cpp
+iostream
+-
+ValidParentheses.h
+/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/ValidParentheses.h
+LongestSubstring.h
+/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/LongestSubstring.h
+
