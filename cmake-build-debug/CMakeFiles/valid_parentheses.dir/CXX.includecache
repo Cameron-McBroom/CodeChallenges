@@ -6,29 +6,33 @@
 
 #IncludeRegexTransform: 
 
-/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/CodeChallenge.h
+/Users/cameron/CLionProjects/CodeChallenges/CodeChallenge.h
 
-/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/LongestSubstring.h
+/Users/cameron/CLionProjects/CodeChallenges/LongestSubstring.h
 CodeChallenge.h
-/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/CodeChallenge.h
+/Users/cameron/CLionProjects/CodeChallenges/CodeChallenge.h
 unordered_map
 -
 string
 -
+queue
+-
+unordered_set
+-
 
-/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/ValidParentheses.h
+/Users/cameron/CLionProjects/CodeChallenges/ValidParentheses.h
 unordered_map
 -
 stack
 -
 CodeChallenge.h
-/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/CodeChallenge.h
+/Users/cameron/CLionProjects/CodeChallenges/CodeChallenge.h
 
-/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/main.cpp
+/Users/cameron/CLionProjects/CodeChallenges/main.cpp
 iostream
 -
 ValidParentheses.h
-/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/ValidParentheses.h
+/Users/cameron/CLionProjects/CodeChallenges/ValidParentheses.h
 LongestSubstring.h
-/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/LongestSubstring.h
+/Users/cameron/CLionProjects/CodeChallenges/LongestSubstring.h
 

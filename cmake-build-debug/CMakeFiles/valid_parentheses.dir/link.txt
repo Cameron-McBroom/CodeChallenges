@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/valid_parentheses.dir/main.cpp.o -o valid_parentheses 
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/valid_parentheses.dir/main.cpp.o -o valid_parentheses 

@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/main.cpp" "/home/cameron/CLionProjects/CodingChallenges/valid-parentheses/cmake-build-debug/CMakeFiles/valid_parentheses.dir/main.cpp.o"
+  "/Users/cameron/CLionProjects/CodeChallenges/main.cpp" "/Users/cameron/CLionProjects/CodeChallenges/cmake-build-debug/CMakeFiles/valid_parentheses.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
